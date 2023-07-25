@@ -2,9 +2,9 @@ public class SocialMediaNetwork {
 
     public static void main(String[] args) {
 
-        User user1 = new User("Ismail");
-        User user2 = new User("Haseeb");
-        User user3 = new User("Zeeshan");
+        User user1 = new User("Ismail Khan");
+        User user2 = new User("Haseeb Khan");
+        User user3 = new User("Zeeshan Khan");
 
         user1.createPost("My first Post");
 
